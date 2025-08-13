@@ -19,24 +19,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-![Mohammad's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohammaddev&show_icons=true&theme=radical)
-
----
-
-🧰 Languages & Tools
-
-!Python
-!Django
-!Django REST
-!Go
-!Git
-!HTML
-!CSS
-!JavaScript
-!VS Code
-
 ---
 
 📫 Contact Us
