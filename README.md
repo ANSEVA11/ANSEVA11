@@ -1,10 +1,7 @@
-## Hi there 👋
+# 👋 Hi, Welcome to ANSEVA11!
 
-# 👋 Hi, I'm Mohammad!
-
-🎯 Passionate Go developer from Qatar  
-💻 Building CLI tools, APIs, and automation scripts  
-🚀 Currently working on: [Go Phonebook CLI](https://github.com/mohammaddev/go-phonebook-cli)
+🎯   The Github home of twin developers **Mohammad Saleh Sohrabi** and **Amir Ali Sohrabi**.
+💻 We love building smart, scalable, and creative software together.
 
 ---
 
